@@ -626,6 +626,7 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   scriptingDefineSymbols:
+    4: AQUAS_PRESENT;UNITY_POST_PROCESSING_STACK_V1
     7: UNITY_POST_PROCESSING_STACK_V1;AQUAS_PRESENT
   platformArchitecture: {}
   scriptingBackend: {}
