@@ -1,0 +1,13 @@
+A collection of 9 realistic animating fish.
+
+Load "Animating_Fish_AllFish.unity" for an example scene showing all the fish, or "Animating_Fish_Test.unity" for a test environment.
+
+If you wish to use an individual fish to your project, simply drag the required fish from the Prefabs folder (in the Project window) into the Hierarchy window. 
+
+To animate the fish along a path, first drag the prefab "AnimPath_Circle" from the Prefabs folder into the Hierarchy. Then drag your chosen fish on top of this node (making it a child of this parent). If your fish is not facing the direction of travel you may need to rotate it 90 degrees on the Y axis (in the Inspector on the right).
+
+Also available is the Underwater FX pack, a wide range of objects and effects to bring your underwater environment alive: https://www.assetstore.unity3d.com/en/#!/content/61157
+
+Have fun!
+
+Thanks for purchasing this asset, please consider rating or writing a review about it. If you have any questions then please get in touch at bendurrant@rivermillstudios.com
