@@ -28,6 +28,6 @@ Material:
     - _DistanceVisibility: 10
     - _Fade: 1
     - _Intensity: 0.6
-    - _WaterLevel: 0.41
+    - _WaterLevel: 0.4313268
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
