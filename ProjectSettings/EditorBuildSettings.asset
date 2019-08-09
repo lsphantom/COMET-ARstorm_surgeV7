@@ -6,12 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/ARSurge_Scenes/MainMenu.unity
-    guid: b9cafbe4637dd45fdb8a147be09b6f25
+    path: Assets/AR_Surge1.unity
+    guid: a3c537c8479a144dabeaf82fa7abbfce
   - enabled: 1
     path: Assets/ARSurge_Scenes/HowToPlay.unity
     guid: 550bcfa6cc7eb425c8bd687f4d8e8193
-  - enabled: 1
-    path: Assets/AR_SurgeHouse.unity
-    guid: 84f9cb4efb406c246b63dcc970c34e73
   m_configObjects: {}

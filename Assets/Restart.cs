@@ -5,9 +5,15 @@ using UnityEngine.SceneManagement;
 
 public class Restart : MonoBehaviour {
 
-	// Use this for initialization
+	// Reload scene using scene name
 	public void RestartGame () 
 	{
 		SceneManager.LoadScene ("AR_SurgeHouse");	
+	}
+
+    // Reload active scene
+	public void ResetScene ()
+	{
+		SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 	}
 }
